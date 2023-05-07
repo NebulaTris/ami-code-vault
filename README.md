@@ -1,5 +1,5 @@
-# ami-code-vault
-This directory contains submodules for the subjects in each semester Each submodule contains code, resources, and notes related to a specific subject.
+# Ami-code-vault :sparkles:
+This directory contains submodules for the subjects in each semester . Each submodule contains code, resources, and notes related to a specific subject.
 
 # Usage
 To use the submodules, clone this repository using the following command:
@@ -16,15 +16,20 @@ git submodule update --recursive --remote
 ```
 # Submodules
 The following is a list of submodules in this directory:
-
-Algorithms: Contains code, resources, and notes related to the Algorithms subject in Semester 3.
-Data Structures: Contains code, resources, and notes related to the Data Structures subject in Semester 3.
-Database Management Systems: Contains code, resources, and notes related to the Database Management Systems subject in Semester 3.
-Operating Systems: Contains code, resources, and notes related to the Operating Systems subject in Semester 4.
-Computer Networks: Contains code, resources, and notes related to the Computer Networks subject in Semester 4.
-Object Oriented Programming: Contains code, resources, and notes related to the Object Oriented Programming subject in Semester 4.
-Contributing
+```yaml
+sem_3/
+├── cpp
+└── dsa-in-c
+sem_4/
+├── basic-simulation
+├── java
+└── os
+```
+# Contributing
 Contributions to the submodules are welcome. If you find any issues or want to suggest improvements, please create an issue in the respective submodule repository. If you want to contribute code, please create a pull request in the respective submodule repository.
 
-License
-The code and resources in the submodules are licensed under the MIT License. See the LICENSE file in each submodule directory for details.
+# License
+The code and resources in the submodules are licensed under the Creative Commons Zero v1.0 Universal License. See the LICENSE file in each submodule directory for details.
+
+# Meme Time :sunglasses:
+<img src="https://i.pinimg.com/550x/fb/de/08/fbde08398de3fff3d2f3bbb0418543d8.jpg">
