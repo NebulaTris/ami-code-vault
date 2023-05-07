@@ -1,0 +1,12 @@
+[submodule "sem_4/OS/OS-Open-Ended"]
+	path = sem_4/OS/OS-Open-Ended
+	url = https://github.com/NebulaTris/OS-Open-Ended.git
+[submodule "sem_4/OS/OS-Practical-File"]
+	path = sem_4/OS/OS-Practical-File
+	url = https://github.com/NebulaTris/OS-Practical-File.git
+[submodule "sem_4/Java/Java-Learning-Journey"]
+	path = sem_4/Java/Java-Learning-Journey
+	url = https://github.com/NebulaTris/Java-Learning-Journey.git
+[submodule "sem_4/Basic-Simulation/Basic-Simulation-Practical-File"]
+	path = sem_4/Basic-Simulation/Basic-Simulation-Practical-File
+	url = https://github.com/NebulaTris/Basic-Simulation-Practical-File.git
