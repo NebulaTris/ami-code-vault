@@ -4,9 +4,9 @@ This directory contains practicals for the subjects of Basic Simulation, Operati
 # Subdirectories
 The directory contains the following subdirectories:
 
-os: This submodule contains practicals related to Operating System.</br>
-basic-simulation: This submodule contains practicals related to Basic Simulation.</br> 
-java: This submodule contains practicals related to Java programming language. 
+- os: This submodule contains practicals related to Operating System.</br>
+- basic-simulation: This submodule contains practicals related to Basic Simulation.</br> 
+- java: This submodule contains practicals related to Java programming language. 
 
 # Usage
 To access the practicals of a particular subject, navigate to the respective subdirectory and find the required file. Each file contains the practical problem statement and its solution in the form of code.
