@@ -10,3 +10,9 @@
 [submodule "sem_4/Basic-Simulation/Basic-Simulation-Practical-File"]
 	path = sem_4/Basic-Simulation/Basic-Simulation-Practical-File
 	url = https://github.com/NebulaTris/Basic-Simulation-Practical-File.git
+[submodule "sem_3/cpp/CPP-Learning-Journey"]
+	path = sem_3/cpp/CPP-Learning-Journey
+	url = https://github.com/NebulaTris/CPP-Learning-Journey.git
+[submodule "sem_3/dsa-in-c/DSA-in-C"]
+	path = sem_3/dsa-in-c/DSA-in-C
+	url = https://github.com/NebulaTris/DSA-in-C.git
