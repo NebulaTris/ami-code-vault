@@ -1,5 +1,5 @@
 # Ami-code-vault :sparkles:
-This directory contains submodules for the subjects in each semester . Each submodule contains code, resources, and notes related to a specific subject.
+This repository contains submodules for the subjects in each semester . Each submodule contains code, resources, and notes related to a specific subject.
 
 # Usage
 To use the submodules, clone this repository using the following command:
